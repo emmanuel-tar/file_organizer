@@ -59,7 +59,7 @@ All actions and errors are logged to `file_organizer.log`. Check this file for d
 
 **Main GUI Window**
 
-![File Organizer GUI](screenshot.png)
+![File Organizer GUI](Screenshot.png)
 
 ## Contributions
 Contributions are welcome! To contribute:
